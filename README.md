@@ -104,6 +104,5 @@ Write the following methods in the classes in the files provided. Feel free to b
   - Returns an list of strings of the types of gamblers the dealer has made bids with
 - `Dealer heaviest_gambler()`
   - Returns the gambler that has made the highest average bids with the dealer
-  
-# phase-3-python-casinos-practice
+
 # phase-3-python-casinos-practice
