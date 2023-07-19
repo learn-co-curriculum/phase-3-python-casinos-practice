@@ -1,4 +1,4 @@
-# Object Relations Code Challenge - Casinos
+# Object Relations Practice - Casinos
 
 For this assignment, you will be working with a Casino domain.
 
